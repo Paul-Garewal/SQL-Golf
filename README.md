@@ -1,2 +1,2 @@
 # SQL-Golf
-SQL work from Database Systems taught at the University of Victoria
+SQL work where the goal is to get data with as little queries as possible. 
